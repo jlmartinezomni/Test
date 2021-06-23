@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<ips current_ip="8">
+  <ip id="1" value="s1mc.xataxrs.com" desc="Stage1" />
+  <ip id="2" value="i1mc.xataxrs.com" desc="Integration1" />
+  <ip id="3" value="alphamc.xataxrs.com" desc="Alpha" />
+  <ip id="4" value="mc.xataxrs.com" desc="Prod" />
+  <ip id="5" value="s4mc.xataxrs.com" desc="Stage4" />
+  <ip id="6" value="rdc-te-prod-xrs.aws.roadnet.com" desc="Teprod" />
+  <ip id="7" value="omni1-poc-xrs.aws.roadnet.com" desc="Tedev" />
+  <ip id="8" value="rdc-sb2-xrs.aws.roadnet.com" desc="RDCSandbox2" />
+</ips>
